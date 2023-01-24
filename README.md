@@ -10,7 +10,7 @@ This is an image classification app that uses a CNN to classify images of landsc
 
 1. Clone the repository
 ```sh
-git clone https://github.com/your-username/your-repository
+git clone https://github.com/MiTiX1/Landscape-classification.git
 ```
 2. Install the required packages
 ```sh
