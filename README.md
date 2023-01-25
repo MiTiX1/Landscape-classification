@@ -6,7 +6,7 @@ This is an image classification app that uses a CNN to classify images of landsc
 
 ![app usage](./readme/presentation.gif)
 
-## Installation & Run
+## Install & Run
 
 1. Clone the repository
 ```sh
